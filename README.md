@@ -18,3 +18,6 @@ This example uses Gantt component: https://github.com/ANovokmet/svelte-gantt
   - meteor npm install --save moment
 - Run Meteor:
   - meteor
+  
+  
+  Pay attention: https://github.com/ANovokmet/svelte-gantt/issues/55
